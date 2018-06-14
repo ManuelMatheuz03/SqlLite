@@ -5,8 +5,21 @@ using Xamarin.Forms.Xaml;
 [assembly: XamlCompilation (XamlCompilationOptions.Compile)]
 namespace SqlLite
 {
-	public partial class App : Application
-	{
+    public partial class App : Application
+    {
+        private static FriendDataBase database;
+
+        public static FriendDataBase Database
+        {
+            get
+            {
+                if (database == null)
+                {
+                    database = new FriendDataBase(DependencyService.Get<IFileHelper>().GetLocalFilePath("friendsdb.db3"));
+                }
+                return database;
+            }
+        }
 		public App ()
 		{
 			InitializeComponent();

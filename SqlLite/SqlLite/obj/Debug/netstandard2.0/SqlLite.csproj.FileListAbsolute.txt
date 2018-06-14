@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\SqlLite\SqlLite\SqlLite\SqlLite\bin\Debug\netstandard2.0\SqlLite.deps.json
+C:\Users\user\source\repos\SqlLite\SqlLite\SqlLite\SqlLite\bin\Debug\netstandard2.0\SqlLite.dll
+C:\Users\user\source\repos\SqlLite\SqlLite\SqlLite\SqlLite\obj\Debug\netstandard2.0\SqlLite.csprojAssemblyReference.cache
+C:\Users\user\source\repos\SqlLite\SqlLite\SqlLite\SqlLite\obj\Debug\netstandard2.0\SqlLite.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SqlLite\SqlLite\SqlLite\SqlLite\obj\Debug\netstandard2.0\SqlLite.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\SqlLite\SqlLite\SqlLite\SqlLite\obj\Debug\netstandard2.0\SqlLite.AssemblyInfo.cs
